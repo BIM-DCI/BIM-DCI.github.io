@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is  a website for the Bioimaging Core Facility at the Danish Cancer Society Research Center.
   Here we share resources and thoughts about bioimaging and bioimage analysis.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://BCIF-site.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://BCIF-DCRC.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: chrisdinant
 github_username:  BICF-chris
 
