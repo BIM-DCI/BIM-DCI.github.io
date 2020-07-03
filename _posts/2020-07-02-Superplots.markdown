@@ -2,7 +2,7 @@
 layout: post
 title:  "Data Visualization for High Throughput Microscopy"
 date:   2020-07-02
-categories: dataviz, hcs, high-throughput microscopy,
+categories: dataviz, hcs, high-throughput microscopy
 tags: superplots
 ---
 

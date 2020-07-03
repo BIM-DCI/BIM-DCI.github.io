@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Contact  
 
-Christoffel Dinant, PhD  
+Christoffel Dinant, PhD, Staff Scientist  
 [Danish Cancer Society Research Center](https://www.cancer.dk/international/)  
 Head of the [Bioimaging Core Facility](https://github.com/BICF-DCRC)  
 email: cdi AT cancer.dk  
