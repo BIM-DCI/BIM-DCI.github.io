@@ -8,6 +8,6 @@ permalink: /about/
 
 Christoffel Dinant, PhD  
 [Danish Cancer Society Research Center](https://www.cancer.dk/international/)  
-[Bioimaging Core Facility](https://github.com/BICF-DCRC)  
+Head of the [Bioimaging Core Facility](https://github.com/BICF-DCRC)  
 email: cdi AT cancer.dk  
-personal [<svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg>](https://github.com/chrisdinant)
+personal [<svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg>chrisdinant](https://github.com/chrisdinant)
