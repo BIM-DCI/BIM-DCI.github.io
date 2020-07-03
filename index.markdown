@@ -4,4 +4,5 @@
 
 layout: home
 ---
-What happens if I type here?
+## Home
+Welcome to the web page for the Bioimaging core facility at the Danish Cancer Society Research Center. We provide assistance for microscope usage and develop bioimage analysis and data visualization tools.

@@ -11,6 +11,10 @@ To take into account both cell-level data and experiment-level data, this paper 
 
 <img src="{{site.baseurl}}/assets/jcb_202001064_figs1_crop.png" height = "500">
 
-You can see the average values for three experiments, in this case they trend in the same direction (what they call *"day-to-day variability"*), the mean of the averages plus standard error and the distribution of the underlying per-cell data in the violinplot in the background.
+You can see:
+
+* the average values for three experiments, in this case they trend in the same direction (what they call *"day-to-day variability"*),
+* the mean of the averages plus standard error and
+* the distribution of the underlying per-cell data in the violinplot in the background.
 
 <img src="{{site.baseurl}}/assets/avg_box_no_border_edit.png">
