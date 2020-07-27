@@ -23,3 +23,5 @@ This paper is an excellent resource for every microscopist doing HTM and I think
 <img src="{{site.baseurl}}/assets/avg_box_no_border_edit.png">
 
 The mean values for 15 independent drug treatments with 9 drugs are shown in boxplots and the underlying distribution of the per-cell data is shown in the violinplots in the background with a values for individual cells in the grey circles (I only show 15 cells per treatment). Different grey values represent different experiments. Note the skewered per-cell distributions for the yellow and light-blue treatments which wouldn't be seen if we only show the data on the per-treatment level.
+
+If you want to give SuperPlots a try you can use the code examples that come with the [paper](https://rupress.org/jcb/article/219/6/e202001064/151717/SuperPlots-Communicating-reproducibility-and), or you can go to this wonderful [data vizualization tool](https://huygens.science.uva.nl/SuperPlotsOfData/) and play around.
